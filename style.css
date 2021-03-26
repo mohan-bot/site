@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+}
+.bgimg{
+    width:80%;
+    
+}
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+.navbar{
+    background-color:white;
+    font-size: 1.5rem;
+    padding: 6% 5% 6% 5%;
+
+}
+#top{
+    background-color:#BEE1F4;
+}
+#top h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 6rem;
+}
+
+.info{
+
+   padding-top: 10%;
+   font-size: 2rem;
+}
+.nav-item{
+    padding:0 3rem 0 3rem;
+}
+.navbar-brand{
+    font-family: 'Sacramento', cursive;
+    font-size: 3.5rem;
+}
+#skill{
+    background-color: white;
+    padding: 5%;  
+    color: #ddddd;
+}
+
+#skill ul{
+    display: inline-block;
+    text-align: left;
+    padding: 1rem 0 3rem 0;
+    font-size: 1.4rem;
+}
+#skill h1{
+    font-weight: bolder;
+    padding: 5%;
+}
+h3{
+    font-weight: bold;
+    font-size: 1.7rem;
+}
+.icon{
+    padding-bottom: 1rem;
+}
+#project h1{
+    font-weight: bolder;
+    padding: 5%;
+}
+#project h3{
+    font-size: 1.4rem;
+}
+.projects div{
+    padding:3%;
+    
+    
+}
+#project{
+    background-color:#BEE1F4;
+    
+    
+}
+
+#inspiration{
+    background-color:white ;
+    padding: 7% 5%;
+}
+#inspiration p{
+    font-size: 1.5rem;
+}
+
+#inspiration img{
+    width:10%;
+    border-radius: 100%;
+    margin:20px;
+}
+.carousel-item{
+    padding:10% 15%; 
+}
+#hireme{
+    background-color:#BEE1F4 ;
+    padding: 5% 5%;
+}
+#hireme i{
+    padding: 5%;
+    color: black;
+    
+}
+
+#hireme i:hover{
+    color: white;
+}
+
